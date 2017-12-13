@@ -1,0 +1,11 @@
+C:\Users\benja\OneDrive\Documents\cours\L5\CSES\rahmani\supervisionSmartFactory\application\application\bin\Debug\application.exe
+C:\Users\benja\OneDrive\Documents\cours\L5\CSES\rahmani\supervisionSmartFactory\application\application\bin\Debug\application.pdb
+C:\Users\benja\OneDrive\Documents\cours\L5\CSES\rahmani\supervisionSmartFactory\application\application\bin\Debug\application.xml
+C:\Users\benja\OneDrive\Documents\cours\L5\CSES\rahmani\supervisionSmartFactory\application\application\bin\Debug\Modbus.dll
+C:\Users\benja\OneDrive\Documents\cours\L5\CSES\rahmani\supervisionSmartFactory\application\application\bin\Debug\Modbus.pdb
+C:\Users\benja\OneDrive\Documents\cours\L5\CSES\rahmani\supervisionSmartFactory\application\application\obj\Debug\application.vbprojResolveAssemblyReference.cache
+C:\Users\benja\OneDrive\Documents\cours\L5\CSES\rahmani\supervisionSmartFactory\application\application\obj\Debug\application.Resources.resources
+C:\Users\benja\OneDrive\Documents\cours\L5\CSES\rahmani\supervisionSmartFactory\application\application\obj\Debug\application.vbproj.GenerateResource.Cache
+C:\Users\benja\OneDrive\Documents\cours\L5\CSES\rahmani\supervisionSmartFactory\application\application\obj\Debug\application.exe
+C:\Users\benja\OneDrive\Documents\cours\L5\CSES\rahmani\supervisionSmartFactory\application\application\obj\Debug\application.xml
+C:\Users\benja\OneDrive\Documents\cours\L5\CSES\rahmani\supervisionSmartFactory\application\application\obj\Debug\application.pdb
